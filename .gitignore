@@ -4,4 +4,4 @@ node_modules/
 *.sublime-*
 talks/*
 
-!talks/example
+!talks/example.md
